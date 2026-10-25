@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GrowTentIndex — Grow Tent Inline Fan CFM, LED PPFD/DLI & Power Cost Calculator (2026)</title>
+  <meta name="description" content="Calculate exact indoor grow tent inline exhaust fan CFM with carbon filter, true LED wattage, PPFD to Daily Light Integral (DLI), and monthly electric cost for AC Infinity, Spider Farmer, Mars Hydro, and Vivosun setups.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/grow-tent-index/">
+  <link rel="alternate" type="application/rss+xml" title="GrowTentIndex RSS Feed" href="https://hanifsalman11.github.io/grow-tent-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-zinc-950 text-zinc-100 min-h-screen flex flex-col">
+  <header class="border-b border-zinc-800 bg-zinc-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-green-500 text-zinc-950 px-2 py-0.5 rounded font-black">GROW</span>TentIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=Samsung%2BLM301H%2BEVO%2BLED%2BGrow%2BLight%2BInline%2BFan%2BCarbon%2BFilter%2BKit&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-green-500 hover:bg-green-400 text-zinc-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop LED Grow Lights & Ventilation Kits on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Grow Tent CFM, LED PPFD/DLI & Power Cost Database</h1>
+      <p class="text-zinc-400 mt-3 text-base sm:text-lg">Select your grow tent size, inline duct fan, or LED grow light below to calculate carbon-filtered exhaust CFM, Daily Light Integral (DLI), and monthly kWh electricity cost.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search tent size, LED or fan (e.g. 4x4 Grow Tent, AC Infinity T6, Spider Farmer SE5000, Mars Hydro, 2x4...)" class="w-full bg-zinc-900 border border-zinc-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-green-500">
+      </div>
+    </div>
+
+    <div id="tentGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="5x5-grow-tent-60x60x80-complete-setup-cfm-ppfd-dli-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-green-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-green-500 text-zinc-950 px-2.5 py-0.5 rounded">850W LED | 8" Fan</span>
+            <span class="text-xs text-zinc-400">430 CFM | 44.1 DLI</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-green-400 transition">5x5 Grow Tent (60x60x80) Complete Setup Calculator</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact inline exhaust fan CFM (259–430 CFM w/ carbon filter), LED wattage (850W), DLI (44.1–66.1 mol/d), and power bill ($79.52/mo) for 5x5 Grow Tent (60x60x80) Complete Setup.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-green-400">Calculate Exhaust CFM, DLI & Power Cost →</span>
+        </a>
+        <a href="2x4-grow-tent-24x48x72-complete-setup-cfm-ppfd-dli-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-green-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-green-500 text-zinc-950 px-2.5 py-0.5 rounded">320W LED | 4" Fan</span>
+            <span class="text-xs text-zinc-400">195 CFM | 38.0 DLI</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-green-400 transition">2x4 Grow Tent (24x48x72) Complete Setup Calculator</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact inline exhaust fan CFM (74–195 CFM w/ carbon filter), LED wattage (320W), DLI (38.0–57.0 mol/d), and power bill ($33.76/mo) for 2x4 Grow Tent (24x48x72) Complete Setup.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-green-400">Calculate Exhaust CFM, DLI & Power Cost →</span>
+        </a>
+        <a href="4x4-grow-tent-48x48x80-complete-setup-cfm-ppfd-dli-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-green-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-green-500 text-zinc-950 px-2.5 py-0.5 rounded">650W LED | 6" Fan</span>
+            <span class="text-xs text-zinc-400">270 CFM | 41.0 DLI</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-green-400 transition">4x4 Grow Tent (48x48x80) Complete Setup Calculator</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (650W), DLI (41.0–61.6 mol/d), and power bill ($62.24/mo) for 4x4 Grow Tent (48x48x80) Complete Setup.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-green-400">Calculate Exhaust CFM, DLI & Power Cost →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-zinc-800 py-8 text-center text-xs text-zinc-500">
+    <p>© 2026 GrowTentIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('tentGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>

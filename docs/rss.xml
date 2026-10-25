@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GrowTentIndex CEA Lighting & Ventilation Database</title>
+    <link>https://hanifsalman11.github.io/grow-tent-index/</link>
+    <description>Interactive Indoor Grow Tent CFM, LED PPFD/DLI & Electricity Cost Calculators</description>
+    <atom:link href="https://hanifsalman11.github.io/grow-tent-index/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    <item>
+      <title>5x5 Grow Tent (60x60x80) Complete Setup CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/grow-tent-index/5x5-grow-tent-60x60x80-complete-setup-cfm-ppfd-dli-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/grow-tent-index/5x5-grow-tent-60x60x80-complete-setup-cfm-ppfd-dli-calculator.html</guid>
+      <description>Calculate exact inline exhaust fan CFM (259–430 CFM w/ carbon filter), LED wattage (850W), DLI (44.1–66.1 mol/d), and power bill ($79.52/mo) for 5x5 Grow Tent (60x60x80) Complete Setup.</description>
+    </item>
+    <item>
+      <title>2x4 Grow Tent (24x48x72) Complete Setup CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/grow-tent-index/2x4-grow-tent-24x48x72-complete-setup-cfm-ppfd-dli-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/grow-tent-index/2x4-grow-tent-24x48x72-complete-setup-cfm-ppfd-dli-calculator.html</guid>
+      <description>Calculate exact inline exhaust fan CFM (74–195 CFM w/ carbon filter), LED wattage (320W), DLI (38.0–57.0 mol/d), and power bill ($33.76/mo) for 2x4 Grow Tent (24x48x72) Complete Setup.</description>
+    </item>
+    <item>
+      <title>4x4 Grow Tent (48x48x80) Complete Setup CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/grow-tent-index/4x4-grow-tent-48x48x80-complete-setup-cfm-ppfd-dli-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/grow-tent-index/4x4-grow-tent-48x48x80-complete-setup-cfm-ppfd-dli-calculator.html</guid>
+      <description>Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (650W), DLI (41.0–61.6 mol/d), and power bill ($62.24/mo) for 4x4 Grow Tent (48x48x80) Complete Setup.</description>
+    </item>
+  </channel>
+</rss>

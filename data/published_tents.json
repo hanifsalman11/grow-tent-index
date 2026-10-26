@@ -31,5 +31,38 @@
     "fan_cfm": 430,
     "dli_12": 44.1,
     "date": "2026-10-25"
+  },
+  {
+    "setup_name": "3x3 Grow Tent (36x36x72) Complete Setup",
+    "slug": "3x3-grow-tent-36x36x72-complete-setup-cfm-ppfd-dli-calculator",
+    "title": "3x3 Grow Tent (36x36x72) Complete Setup CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (84–195 CFM w/ carbon filter), LED wattage (300W), DLI (37.2–55.7 mol/d), and power bill ($32.0/mo) for 3x3 Grow Tent (36x36x72) Complete Setup.",
+    "led_watts": 300,
+    "duct_in": 4,
+    "fan_cfm": 195,
+    "dli_12": 37.2,
+    "date": "2026-10-26"
+  },
+  {
+    "setup_name": "4x8 Grow Tent (48x96x80) Dual-Light Setup",
+    "slug": "4x8-grow-tent-48x96x80-dual-light-setup-cfm-ppfd-dli-calculator",
+    "title": "4x8 Grow Tent (48x96x80) Dual-Light Setup CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (331–550 CFM w/ carbon filter), LED wattage (1300W), DLI (42.3–63.5 mol/d), and power bill ($118.4/mo) for 4x8 Grow Tent (48x96x80) Dual-Light Setup.",
+    "led_watts": 1300,
+    "duct_in": 8,
+    "fan_cfm": 550,
+    "dli_12": 42.3,
+    "date": "2026-10-26"
+  },
+  {
+    "setup_name": "2x2 Compact Grow Tent (24x24x55) Setup",
+    "slug": "2x2-compact-grow-tent-24x24x55-setup-cfm-ppfd-dli-calculator",
+    "title": "2x2 Compact Grow Tent (24x24x55) Setup CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (28–195 CFM w/ carbon filter), LED wattage (150W), DLI (33.7–50.5 mol/d), and power bill ($19.04/mo) for 2x2 Compact Grow Tent (24x24x55) Setup.",
+    "led_watts": 150,
+    "duct_in": 4,
+    "fan_cfm": 195,
+    "dli_12": 33.7,
+    "date": "2026-10-26"
   }
 ]

@@ -196,5 +196,38 @@
     "fan_cfm": 270,
     "dli_12": 38.4,
     "date": "2026-10-27"
+  },
+  {
+    "setup_name": "VIVOSUN AeroZesh G6 6-Inch Smart Ventilation Kit",
+    "slug": "vivosun-aerozesh-g6-6-inch-smart-ventilation-kit-cfm-ppfd-dli-calculator",
+    "title": "VIVOSUN AeroZesh G6 6-Inch Smart Ventilation Kit CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (600W), DLI (39.7–59.6 mol/d), and power bill ($57.92/mo) for VIVOSUN AeroZesh G6 6-Inch Smart Ventilation Kit.",
+    "led_watts": 600,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-10-27"
+  },
+  {
+    "setup_name": "HLG Scorpion Diablo X 700W Quantum Board LED",
+    "slug": "hlg-scorpion-diablo-x-700w-quantum-board-led-cfm-ppfd-dli-calculator",
+    "title": "HLG Scorpion Diablo X 700W Quantum Board LED CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (259–430 CFM w/ carbon filter), LED wattage (700W), DLI (48.4–72.6 mol/d), and power bill ($66.56/mo) for HLG Scorpion Diablo X 700W Quantum Board LED.",
+    "led_watts": 700,
+    "duct_in": 8,
+    "fan_cfm": 430,
+    "dli_12": 48.4,
+    "date": "2026-10-27"
+  },
+  {
+    "setup_name": "HLG Blackwing 225W USA Quantum Board (2x4)",
+    "slug": "hlg-blackwing-225w-usa-quantum-board-2x4-cfm-ppfd-dli-calculator",
+    "title": "HLG Blackwing 225W USA Quantum Board (2x4) CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (74–195 CFM w/ carbon filter), LED wattage (225W), DLI (35.9–53.8 mol/d), and power bill ($25.44/mo) for HLG Blackwing 225W USA Quantum Board (2x4).",
+    "led_watts": 225,
+    "duct_in": 4,
+    "fan_cfm": 195,
+    "dli_12": 35.9,
+    "date": "2026-10-27"
   }
 ]

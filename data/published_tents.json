@@ -130,5 +130,38 @@
     "fan_cfm": 195,
     "dli_12": 37.6,
     "date": "2026-10-26"
+  },
+  {
+    "setup_name": "Spider Farmer SF2000 Pro 200W EVO LED (2x4)",
+    "slug": "spider-farmer-sf2000-pro-200w-evo-led-2x4-cfm-ppfd-dli-calculator",
+    "title": "Spider Farmer SF2000 Pro 200W EVO LED (2x4) CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (74–195 CFM w/ carbon filter), LED wattage (200W), DLI (35.0–52.5 mol/d), and power bill ($23.36/mo) for Spider Farmer SF2000 Pro 200W EVO LED (2x4).",
+    "led_watts": 200,
+    "duct_in": 4,
+    "fan_cfm": 195,
+    "dli_12": 35.0,
+    "date": "2026-10-27"
+  },
+  {
+    "setup_name": "Mars Hydro FC-E4800 480W BridgeLux Bar LED (4x4)",
+    "slug": "mars-hydro-fc-e4800-480w-bridgelux-bar-led-4x4-cfm-ppfd-dli-calculator",
+    "title": "Mars Hydro FC-E4800 480W BridgeLux Bar LED (4x4) CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (480W), DLI (39.3–59.0 mol/d), and power bill ($47.52/mo) for Mars Hydro FC-E4800 480W BridgeLux Bar LED (4x4).",
+    "led_watts": 480,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.3,
+    "date": "2026-10-27"
+  },
+  {
+    "setup_name": "Mars Hydro FC-E6500 730W Bar LED (5x5 Coverage)",
+    "slug": "mars-hydro-fc-e6500-730w-bar-led-5x5-coverage-cfm-ppfd-dli-calculator",
+    "title": "Mars Hydro FC-E6500 730W Bar LED (5x5 Coverage) CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (259–430 CFM w/ carbon filter), LED wattage (730W), DLI (44.9–67.4 mol/d), and power bill ($69.12/mo) for Mars Hydro FC-E6500 730W Bar LED (5x5 Coverage).",
+    "led_watts": 730,
+    "duct_in": 8,
+    "fan_cfm": 430,
+    "dli_12": 44.9,
+    "date": "2026-10-27"
   }
 ]

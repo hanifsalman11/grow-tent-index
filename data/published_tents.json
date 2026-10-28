@@ -295,5 +295,38 @@
     "fan_cfm": 430,
     "dli_12": 46.7,
     "date": "2026-10-28"
+  },
+  {
+    "setup_name": "AC Infinity IONFRAME EVO3 280W Bar LED (2x4)",
+    "slug": "ac-infinity-ionframe-evo3-280w-bar-led-2x4-cfm-ppfd-dli-calculator",
+    "title": "AC Infinity IONFRAME EVO3 280W Bar LED (2x4) CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (74–195 CFM w/ carbon filter), LED wattage (280W), DLI (38.4–57.7 mol/d), and power bill ($30.24/mo) for AC Infinity IONFRAME EVO3 280W Bar LED (2x4).",
+    "led_watts": 280,
+    "duct_in": 4,
+    "fan_cfm": 195,
+    "dli_12": 38.4,
+    "date": "2026-10-28"
+  },
+  {
+    "setup_name": "8x8 Walk-In Indoor Grow Room (96x96x80) Setup",
+    "slug": "8x8-walk-in-indoor-grow-room-96x96x80-setup-cfm-ppfd-dli-calculator",
+    "title": "8x8 Walk-In Indoor Grow Room (96x96x80) Setup CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (662–1090 CFM w/ carbon filter), LED wattage (2600W), DLI (44.1–66.1 mol/d), and power bill ($230.72/mo) for 8x8 Walk-In Indoor Grow Room (96x96x80) Setup.",
+    "led_watts": 2600,
+    "duct_in": 10,
+    "fan_cfm": 1090,
+    "dli_12": 44.1,
+    "date": "2026-10-28"
+  },
+  {
+    "setup_name": "3x5 Closet & Utility Grow Tent (36x60x80) Setup",
+    "slug": "3x5-closet-utility-grow-tent-36x60x80-setup-cfm-ppfd-dli-calculator",
+    "title": "3x5 Closet & Utility Grow Tent (36x60x80) Setup CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (155–260 CFM w/ carbon filter), LED wattage (500W), DLI (39.3–59.0 mol/d), and power bill ($49.28/mo) for 3x5 Closet & Utility Grow Tent (36x60x80) Setup.",
+    "led_watts": 500,
+    "duct_in": 6,
+    "fan_cfm": 260,
+    "dli_12": 39.3,
+    "date": "2026-10-28"
   }
 ]

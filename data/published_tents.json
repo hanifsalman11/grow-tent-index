@@ -229,5 +229,38 @@
     "fan_cfm": 195,
     "dli_12": 35.9,
     "date": "2026-10-27"
+  },
+  {
+    "setup_name": "Medic Grow Fold-8 760W Full-Spectrum Bar LED (5x5)",
+    "slug": "medic-grow-fold-8-760w-full-spectrum-bar-led-5x5-cfm-ppfd-dli-calculator",
+    "title": "Medic Grow Fold-8 760W Full-Spectrum Bar LED (5x5) CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (259–430 CFM w/ carbon filter), LED wattage (760W), DLI (44.5–66.7 mol/d), and power bill ($71.68/mo) for Medic Grow Fold-8 760W Full-Spectrum Bar LED (5x5).",
+    "led_watts": 760,
+    "duct_in": 8,
+    "fan_cfm": 430,
+    "dli_12": 44.5,
+    "date": "2026-10-28"
+  },
+  {
+    "setup_name": "Medic Grow Mini Sun-2 320W Bar LED (3x3 / 2x4)",
+    "slug": "medic-grow-mini-sun-2-320w-bar-led-3x3-2x4-cfm-ppfd-dli-calculator",
+    "title": "Medic Grow Mini Sun-2 320W Bar LED (3x3 / 2x4) CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (84–195 CFM w/ carbon filter), LED wattage (320W), DLI (38.4–57.7 mol/d), and power bill ($33.76/mo) for Medic Grow Mini Sun-2 320W Bar LED (3x3 / 2x4).",
+    "led_watts": 320,
+    "duct_in": 4,
+    "fan_cfm": 195,
+    "dli_12": 38.4,
+    "date": "2026-10-28"
+  },
+  {
+    "setup_name": "Gorilla Grow Tent 4x4 Pro (84-Inch Height Extension)",
+    "slug": "gorilla-grow-tent-4x4-pro-84-inch-height-extension-cfm-ppfd-dli-calculator",
+    "title": "Gorilla Grow Tent 4x4 Pro (84-Inch Height Extension) CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (174–290 CFM w/ carbon filter), LED wattage (680W), DLI (42.3–63.5 mol/d), and power bill ($64.8/mo) for Gorilla Grow Tent 4x4 Pro (84-Inch Height Extension).",
+    "led_watts": 680,
+    "duct_in": 6,
+    "fan_cfm": 290,
+    "dli_12": 42.3,
+    "date": "2026-10-28"
   }
 ]

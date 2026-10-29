@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/grow-tent-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>2X2 Grow Tent CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/grow-tent-index/2x2-grow-tent-cfm-ppfd-dli-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/grow-tent-index/2x2-grow-tent-cfm-ppfd-dli-calculator.html</guid>
+      <description>Calculate exact inline exhaust fan CFM (41–195 CFM w/ carbon filter), LED wattage (150W), DLI (39.7–59.6 mol/d), and power bill ($19.04/mo) for 2X2 Grow Tent.</description>
+    </item>
+    <item>
+      <title>Bathroom CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/grow-tent-index/bathroom-cfm-ppfd-dli-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/grow-tent-index/bathroom-cfm-ppfd-dli-calculator.html</guid>
+      <description>Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Bathroom.</description>
+    </item>
+    <item>
+      <title>Grow Tent CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/grow-tent-index/grow-tent-cfm-ppfd-dli-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/grow-tent-index/grow-tent-cfm-ppfd-dli-calculator.html</guid>
+      <description>Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Grow Tent.</description>
+    </item>
+    <item>
       <title>10X10 Grow Room CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/grow-tent-index/10x10-grow-room-cfm-ppfd-dli-calculator.html</link>
       <guid>https://hanifsalman11.github.io/grow-tent-index/10x10-grow-room-cfm-ppfd-dli-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/grow-tent-index/spider-farmer-se5000-480w-bar-led-4x4-coverage-cfm-ppfd-dli-calculator.html</link>
       <guid>https://hanifsalman11.github.io/grow-tent-index/spider-farmer-se5000-480w-bar-led-4x4-coverage-cfm-ppfd-dli-calculator.html</guid>
       <description>Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (480W), DLI (39.7–59.6 mol/d), and power bill ($47.52/mo) for Spider Farmer SE5000 480W Bar LED (4x4 Coverage).</description>
-    </item>
-    <item>
-      <title>AC Infinity CLOUDLINE PRO T8 8-Inch Inline Fan System CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/grow-tent-index/ac-infinity-cloudline-pro-t8-8-inch-inline-fan-system-cfm-ppfd-dli-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/grow-tent-index/ac-infinity-cloudline-pro-t8-8-inch-inline-fan-system-cfm-ppfd-dli-calculator.html</guid>
-      <description>Calculate exact inline exhaust fan CFM (259–430 CFM w/ carbon filter), LED wattage (1000W), DLI (45.4–68.0 mol/d), and power bill ($92.48/mo) for AC Infinity CLOUDLINE PRO T8 8-Inch Inline Fan System.</description>
-    </item>
-    <item>
-      <title>AC Infinity CLOUDLINE PRO T4 4-Inch Inline Fan System CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/grow-tent-index/ac-infinity-cloudline-pro-t4-4-inch-inline-fan-system-cfm-ppfd-dli-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/grow-tent-index/ac-infinity-cloudline-pro-t4-4-inch-inline-fan-system-cfm-ppfd-dli-calculator.html</guid>
-      <description>Calculate exact inline exhaust fan CFM (74–195 CFM w/ carbon filter), LED wattage (320W), DLI (36.7–55.1 mol/d), and power bill ($33.76/mo) for AC Infinity CLOUDLINE PRO T4 4-Inch Inline Fan System.</description>
-    </item>
-    <item>
-      <title>AC Infinity CLOUDLINE PRO T6 6-Inch Inline Fan System CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/grow-tent-index/ac-infinity-cloudline-pro-t6-6-inch-inline-fan-system-cfm-ppfd-dli-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/grow-tent-index/ac-infinity-cloudline-pro-t6-6-inch-inline-fan-system-cfm-ppfd-dli-calculator.html</guid>
-      <description>Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (650W), DLI (41.0–61.6 mol/d), and power bill ($62.24/mo) for AC Infinity CLOUDLINE PRO T6 6-Inch Inline Fan System.</description>
     </item>
   </channel>
 </rss>

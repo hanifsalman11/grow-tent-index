@@ -328,5 +328,38 @@
     "fan_cfm": 260,
     "dli_12": 39.3,
     "date": "2026-10-28"
+  },
+  {
+    "setup_name": "4X4 Grow Tent",
+    "slug": "4x4-grow-tent-cfm-ppfd-dli-calculator",
+    "title": "4X4 Grow Tent CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for 4X4 Grow Tent.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-10-29"
+  },
+  {
+    "setup_name": "5X5 Grow Tent",
+    "slug": "5x5-grow-tent-cfm-ppfd-dli-calculator",
+    "title": "5X5 Grow Tent CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (259–430 CFM w/ carbon filter), LED wattage (950W), DLI (39.7–59.6 mol/d), and power bill ($88.16/mo) for 5X5 Grow Tent.",
+    "led_watts": 950,
+    "duct_in": 8,
+    "fan_cfm": 430,
+    "dli_12": 39.7,
+    "date": "2026-10-29"
+  },
+  {
+    "setup_name": "4X8 Grow Tent",
+    "slug": "4x8-grow-tent-cfm-ppfd-dli-calculator",
+    "title": "4X8 Grow Tent CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (331–550 CFM w/ carbon filter), LED wattage (1220W), DLI (39.7–59.6 mol/d), and power bill ($111.52/mo) for 4X8 Grow Tent.",
+    "led_watts": 1220,
+    "duct_in": 8,
+    "fan_cfm": 550,
+    "dli_12": 39.7,
+    "date": "2026-10-29"
   }
 ]

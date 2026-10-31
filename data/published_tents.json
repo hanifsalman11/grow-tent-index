@@ -526,5 +526,38 @@
     "fan_cfm": 270,
     "dli_12": 39.7,
     "date": "2026-10-30"
+  },
+  {
+    "setup_name": "Ac Infinity Cloudline Pro T6",
+    "slug": "ac-infinity-cloudline-pro-t6-cfm-ppfd-dli-calculator",
+    "title": "Ac Infinity Cloudline Pro T6 CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Ac Infinity Cloudline Pro T6.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-10-31"
+  },
+  {
+    "setup_name": "Ac Infinity Cloudline A4",
+    "slug": "ac-infinity-cloudline-a4-cfm-ppfd-dli-calculator",
+    "title": "Ac Infinity Cloudline A4 CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Ac Infinity Cloudline A4.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-10-31"
+  },
+  {
+    "setup_name": "Spider Farmer Grow Light",
+    "slug": "spider-farmer-grow-light-cfm-ppfd-dli-calculator",
+    "title": "Spider Farmer Grow Light CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Spider Farmer Grow Light.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-10-31"
   }
 ]

@@ -559,5 +559,38 @@
     "fan_cfm": 270,
     "dli_12": 39.7,
     "date": "2026-10-31"
+  },
+  {
+    "setup_name": "Spider Farmer Grow Tent",
+    "slug": "spider-farmer-grow-tent-cfm-ppfd-dli-calculator",
+    "title": "Spider Farmer Grow Tent CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Spider Farmer Grow Tent.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-10-31"
+  },
+  {
+    "setup_name": "Spider Farmer Sf1000",
+    "slug": "spider-farmer-sf1000-cfm-ppfd-dli-calculator",
+    "title": "Spider Farmer Sf1000 CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Spider Farmer Sf1000.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-10-31"
+  },
+  {
+    "setup_name": "Spider Farmer Coupon Code",
+    "slug": "spider-farmer-coupon-code-cfm-ppfd-dli-calculator",
+    "title": "Spider Farmer Coupon Code CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Spider Farmer Coupon Code.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-10-31"
   }
 ]

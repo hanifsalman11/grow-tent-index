@@ -625,5 +625,38 @@
     "fan_cfm": 270,
     "dli_12": 39.7,
     "date": "2026-10-31"
+  },
+  {
+    "setup_name": "Spider Farmer Sf2000",
+    "slug": "spider-farmer-sf2000-cfm-ppfd-dli-calculator",
+    "title": "Spider Farmer Sf2000 CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Spider Farmer Sf2000.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-11-01"
+  },
+  {
+    "setup_name": "Spider Farmer Humidifier",
+    "slug": "spider-farmer-humidifier-cfm-ppfd-dli-calculator",
+    "title": "Spider Farmer Humidifier CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Spider Farmer Humidifier.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-11-01"
+  },
+  {
+    "setup_name": "Spider Farmer Se3000",
+    "slug": "spider-farmer-se3000-cfm-ppfd-dli-calculator",
+    "title": "Spider Farmer Se3000 CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Spider Farmer Se3000.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-11-01"
   }
 ]

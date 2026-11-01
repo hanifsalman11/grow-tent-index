@@ -691,5 +691,38 @@
     "fan_cfm": 270,
     "dli_12": 39.7,
     "date": "2026-11-01"
+  },
+  {
+    "setup_name": "Mars Hydro Lights",
+    "slug": "mars-hydro-lights-cfm-ppfd-dli-calculator",
+    "title": "Mars Hydro Lights CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Mars Hydro Lights.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-11-01"
+  },
+  {
+    "setup_name": "Mars Hydro Ts 3000",
+    "slug": "mars-hydro-ts-3000-cfm-ppfd-dli-calculator",
+    "title": "Mars Hydro Ts 3000 CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Mars Hydro Ts 3000.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-11-01"
+  },
+  {
+    "setup_name": "Mars Hydro Ts600",
+    "slug": "mars-hydro-ts600-cfm-ppfd-dli-calculator",
+    "title": "Mars Hydro Ts600 CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Mars Hydro Ts600.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-11-01"
   }
 ]

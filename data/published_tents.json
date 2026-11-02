@@ -757,5 +757,38 @@
     "fan_cfm": 270,
     "dli_12": 39.7,
     "date": "2026-11-02"
+  },
+  {
+    "setup_name": "Mars Hydro Grow Tent Kit",
+    "slug": "mars-hydro-grow-tent-kit-cfm-ppfd-dli-calculator",
+    "title": "Mars Hydro Grow Tent Kit CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Mars Hydro Grow Tent Kit.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-11-02"
+  },
+  {
+    "setup_name": "How Many Watts  Grow Tent",
+    "slug": "how-many-watts-grow-tent-cfm-ppfd-dli-calculator",
+    "title": "How Many Watts  Grow Tent CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for How Many Watts  Grow Tent.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-11-02"
+  },
+  {
+    "setup_name": "How Many Watts  4X4 Grow Tent",
+    "slug": "how-many-watts-4x4-grow-tent-cfm-ppfd-dli-calculator",
+    "title": "How Many Watts  4X4 Grow Tent CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for How Many Watts  4X4 Grow Tent.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-11-02"
   }
 ]

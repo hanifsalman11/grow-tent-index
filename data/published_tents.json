@@ -856,5 +856,27 @@
     "fan_cfm": 195,
     "dli_12": 39.7,
     "date": "2026-11-03"
+  },
+  {
+    "setup_name": "How Many Led Watts  4X4 Grow Tent",
+    "slug": "how-many-led-watts-4x4-grow-tent-cfm-ppfd-dli-calculator",
+    "title": "How Many Led Watts  4X4 Grow Tent CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for How Many Led Watts  4X4 Grow Tent.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-11-04"
+  },
+  {
+    "setup_name": "How Many Led Watts  5X5 Grow Tent",
+    "slug": "how-many-led-watts-5x5-grow-tent-cfm-ppfd-dli-calculator",
+    "title": "How Many Led Watts  5X5 Grow Tent CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (259–430 CFM w/ carbon filter), LED wattage (950W), DLI (39.7–59.6 mol/d), and power bill ($88.16/mo) for How Many Led Watts  5X5 Grow Tent.",
+    "led_watts": 950,
+    "duct_in": 8,
+    "fan_cfm": 430,
+    "dli_12": 39.7,
+    "date": "2026-11-04"
   }
 ]

@@ -900,5 +900,16 @@
     "fan_cfm": 270,
     "dli_12": 39.7,
     "date": "2026-11-05"
+  },
+  {
+    "setup_name": "Spider Farmer Black Friday Sale",
+    "slug": "spider-farmer-black-friday-sale-cfm-ppfd-dli-calculator",
+    "title": "Spider Farmer Black Friday Sale CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Spider Farmer Black Friday Sale.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-11-16"
   }
 ]

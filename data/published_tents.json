@@ -922,5 +922,27 @@
     "fan_cfm": 270,
     "dli_12": 39.7,
     "date": "2026-11-19"
+  },
+  {
+    "setup_name": "Ac Infinity Cloudline Pro",
+    "slug": "ac-infinity-cloudline-pro-cfm-ppfd-dli-calculator",
+    "title": "Ac Infinity Cloudline Pro CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Ac Infinity Cloudline Pro.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-11-25"
+  },
+  {
+    "setup_name": "Mars Hydro Sp3000",
+    "slug": "mars-hydro-sp3000-cfm-ppfd-dli-calculator",
+    "title": "Mars Hydro Sp3000 CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)",
+    "description": "Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Mars Hydro Sp3000.",
+    "led_watts": 610,
+    "duct_in": 6,
+    "fan_cfm": 270,
+    "dli_12": 39.7,
+    "date": "2026-11-25"
   }
 ]

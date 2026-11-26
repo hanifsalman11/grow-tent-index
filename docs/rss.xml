@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/grow-tent-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Spider Farmer Grow Tent Kit CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/grow-tent-index/spider-farmer-grow-tent-kit-cfm-ppfd-dli-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/grow-tent-index/spider-farmer-grow-tent-kit-cfm-ppfd-dli-calculator.html</guid>
+      <description>Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Spider Farmer Grow Tent Kit.</description>
+    </item>
+    <item>
       <title>Mars Hydro Sp3000 CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/grow-tent-index/mars-hydro-sp3000-cfm-ppfd-dli-calculator.html</link>
       <guid>https://hanifsalman11.github.io/grow-tent-index/mars-hydro-sp3000-cfm-ppfd-dli-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/grow-tent-index/spider-farmer-sf2000-cfm-ppfd-dli-calculator.html</link>
       <guid>https://hanifsalman11.github.io/grow-tent-index/spider-farmer-sf2000-cfm-ppfd-dli-calculator.html</guid>
       <description>Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Spider Farmer Sf2000.</description>
-    </item>
-    <item>
-      <title>Spider Farmer Dehumidifier CFM Fan, LED Wattage, PPFD/DLI & Cost Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/grow-tent-index/spider-farmer-dehumidifier-cfm-ppfd-dli-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/grow-tent-index/spider-farmer-dehumidifier-cfm-ppfd-dli-calculator.html</guid>
-      <description>Calculate exact inline exhaust fan CFM (165–270 CFM w/ carbon filter), LED wattage (610W), DLI (39.7–59.6 mol/d), and power bill ($58.72/mo) for Spider Farmer Dehumidifier.</description>
     </item>
   </channel>
 </rss>
